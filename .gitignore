@@ -1,16 +1,32 @@
-# Compiled class files
-*.class
-*.o
-*.out
-*.exe
+# Maven build
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
-# IntelliJ
+# IntelliJ IDEA
 .idea/
 *.iml
+*.iws
+*.ipr
 out/
 
-# VS Code
-.vscode/
+# Logs
+*.log
 
-# macOS
+# OS files
 .DS_Store
+Thumbs.db
+
+# Backup files
+*.class
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Compiled class files
+*.class
+
+# Maven local repo (optional, only if cached locally)
+/.mvn/
+
+# Envir

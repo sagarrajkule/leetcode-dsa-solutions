@@ -1,0 +1,11 @@
+# Treat Java files as text
+*.java text
+
+# Ensure Unix-style line endings
+* text=auto eol=lf
+
+# Ignore IDE-specific and compiled files
+*.class linguist-generated=true
+*.iml linguist-generated=true
+.idea/ linguist-generated=true
+target/ linguist-generated=true
