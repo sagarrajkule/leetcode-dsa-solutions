@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+*.o
+*.out
+*.exe
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
