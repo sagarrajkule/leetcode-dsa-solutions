@@ -2,16 +2,27 @@
 
 This folder contains Java implementations of DSA problems solved from platforms like LeetCode.
 
-## 🛠️ Compile and Run
+# Option 1: Run without Maven (Direct Java CLI)
 
-If you're using command line:
+## 🛠️ Compile
 
 ```bash
-javac arrays/Example.java
-java arrays.Example
+javac -d out src/main/java/<package_path>/<ClassName>.java
+
+E.g. javac -d out src/main/java/arrays/FizzBuzz.java
 ```
 
-# How to Run Tests
+## 🛠️ Run
+
+```bash
+java -cp out <package_path>.<ClassName> <args>
+
+E.g. java -cp out arrays.FizzBuzz 10
+```
+
+# Option 2: Run with Maven
+
+## How to Run Tests
 
 Open a terminal and navigate to the root of the project (leetcode-dsa-solutions/):
 

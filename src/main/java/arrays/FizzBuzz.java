@@ -40,6 +40,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FizzBuzz {
+    /**
+     * Main logic for the FizzBuzz problem.
+     * Given an integer n, returns a list of strings from 1 to n
+     * with the following rules:
+     * - "FizzBuzz" for numbers divisible by 3 and 5,
+     * - "Fizz" for numbers divisible by 3,
+     * - "Buzz" for numbers divisible by 5,
+     * - the number itself as a string otherwise.
+     * <p>
+     * This method is the only required part for LeetCode submissions.
+     */
     public List<String> fizzBuzz(int n) {
         List<String> result = new ArrayList<>();
 
@@ -56,5 +67,28 @@ public class FizzBuzz {
         }
 
         return result;
+    }
+
+    /**
+     * This main method is for testing/debugging locally from the command line.
+     * It can be ignored or removed for LeetCode submission.
+     * <p>
+     * Usage:
+     * java arrays.FizzBuzz 15
+     */
+    public static void main(String[] args) {
+        if (args.length == 0) {
+            System.out.println("Please provide a number as an argument. Example: java arrays.FizzBuzz 5");
+            return;
+        }
+
+        try {
+            int n = Integer.parseInt(args[0]);
+            FizzBuzz fb = new FizzBuzz();
+            List<String> result = fb.fizzBuzz(n);
+            result.forEach(System.out::println);
+        } catch (NumberFormatException e) {
+            System.out.println("Invalid number format. Please provide an integer.");
+        }
     }
 }
