@@ -37,6 +37,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -61,6 +62,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Backtracking
