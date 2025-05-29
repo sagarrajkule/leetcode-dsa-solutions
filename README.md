@@ -37,6 +37,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
@@ -59,4 +60,12 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
