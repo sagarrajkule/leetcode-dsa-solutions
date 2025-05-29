@@ -45,6 +45,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
@@ -63,6 +64,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Binary Search
 |  |
@@ -126,4 +128,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
