@@ -77,4 +77,12 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
