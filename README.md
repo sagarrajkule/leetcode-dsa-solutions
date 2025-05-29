@@ -77,12 +77,19 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
