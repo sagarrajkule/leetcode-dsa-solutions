@@ -40,6 +40,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0033-search-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
