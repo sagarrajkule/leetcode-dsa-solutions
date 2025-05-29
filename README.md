@@ -39,6 +39,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -103,6 +104,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
@@ -131,5 +133,6 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
