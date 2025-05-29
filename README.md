@@ -79,6 +79,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -107,4 +108,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
