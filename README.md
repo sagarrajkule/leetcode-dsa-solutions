@@ -52,6 +52,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
@@ -135,4 +137,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
