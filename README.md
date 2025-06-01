@@ -47,12 +47,14 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -141,4 +143,5 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
