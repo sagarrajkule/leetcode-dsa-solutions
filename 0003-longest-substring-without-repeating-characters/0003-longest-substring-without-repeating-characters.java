@@ -4,9 +4,8 @@ class Solution {
         int ans = 0;
 
         Map<Character, Integer> map = new HashMap<>(); 
-        int i = 0;
 
-        for (int j = 0; j < n; j++) {
+        for (int i = 0,j = 0; j < n; j++) {
             if (map.containsKey(s.charAt(j))) {
                 i = Math.max(i, map.get(s.charAt(j)));
             }
