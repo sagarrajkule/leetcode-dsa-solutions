@@ -48,6 +48,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -139,6 +141,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
+| [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -156,4 +159,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
