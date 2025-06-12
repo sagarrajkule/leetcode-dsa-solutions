@@ -1,60 +1,54 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class Solution {
-    public String minWindow(String s, String t) {
-        if (s.length() < t.length())
+    public String minWindow(String source, String target) {
+        int sourceLength = source.length();
+        int targetLength = target.length();
+        if (sourceLength < targetLength || sourceLength == 0 || targetLength == 0)
             return "";
 
-        // Step 1: Build frequency map for characters in t
-        Map<Character, Integer> tFreq = new HashMap<>();
-        for (int i = 0; i < t.length(); i++) {
-            char c = t.charAt(i);
-            tFreq.put(c, tFreq.getOrDefault(c, 0) + 1);
+        int[] charFrequency = new int[256]; // Frequency of characters in target
+
+        // Count each character in target string
+        for (int i = 0; i < targetLength; i++) {
+            charFrequency[target.charAt(i)]++;
         }
 
-        // Sliding window pointers and required variables
         int left = 0, right = 0;
-        int minLen = Integer.MAX_VALUE;
-        int minStart = 0;
+        int matchedCharacters = 0;
+        int minWindowLength = Integer.MAX_VALUE;
+        int windowStartIndex = -1;
 
-        // Number of unique characters in t that must be present in the window
-        int required = tFreq.size();
-        int formed = 0;
+        while (right < sourceLength) {
+            char currentChar = source.charAt(right);
+            charFrequency[currentChar]--;
 
-        // Frequency map for current window
-        Map<Character, Integer> windowCounts = new HashMap<>();
-
-        while (right < s.length()) {
-            char c = s.charAt(right);
-            windowCounts.put(c, windowCounts.getOrDefault(c, 0) + 1);
-
-            // Check if current character frequency matches the one in t
-            if (tFreq.containsKey(c) && windowCounts.get(c).intValue() == tFreq.get(c).intValue()) {
-                formed++;
+            if (charFrequency[currentChar] >= 0) {
+                matchedCharacters++;
             }
 
-            // Try to contract the window till it's no longer valid
-            while (left <= right && formed == required) {
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    minStart = left;
+            // Shrink the window as long as it contains all characters from target
+            while (matchedCharacters == targetLength) {
+                // Update the smallest window
+                if ((right - left + 1) < minWindowLength) {
+                    minWindowLength = right - left + 1;
+                    windowStartIndex = left;
                 }
 
-                char leftChar = s.charAt(left);
-                windowCounts.put(leftChar, windowCounts.get(leftChar) - 1);
-
-                if (tFreq.containsKey(leftChar)
-                        && windowCounts.get(leftChar).intValue() < tFreq.get(leftChar).intValue()) {
-                    formed--;
+                // Try to move left pointer forward to minimize the window
+                char leftChar = source.charAt(left);
+                charFrequency[leftChar]++;
+                if (charFrequency[leftChar] > 0) {
+                    matchedCharacters--;
                 }
-
                 left++;
             }
 
             right++;
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minLen);
+        return windowStartIndex == -1
+                ? ""
+                : source.substring(windowStartIndex, windowStartIndex + minWindowLength);
     }
 }
