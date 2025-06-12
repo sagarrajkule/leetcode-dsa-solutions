@@ -59,6 +59,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
@@ -106,6 +107,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
