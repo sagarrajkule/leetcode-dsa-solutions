@@ -37,6 +37,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
@@ -58,6 +59,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
