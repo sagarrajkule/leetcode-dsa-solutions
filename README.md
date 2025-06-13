@@ -45,6 +45,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0035-search-insert-position](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -147,6 +149,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 ## Matrix
