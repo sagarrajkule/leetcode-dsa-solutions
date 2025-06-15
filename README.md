@@ -75,6 +75,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -149,6 +150,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
@@ -199,8 +201,13 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0908-middle-of-the-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
