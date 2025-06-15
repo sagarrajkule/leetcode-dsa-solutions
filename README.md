@@ -126,6 +126,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
@@ -136,6 +137,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
@@ -193,6 +195,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
