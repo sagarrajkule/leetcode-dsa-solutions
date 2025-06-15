@@ -43,6 +43,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -158,6 +160,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
