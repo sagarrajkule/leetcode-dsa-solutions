@@ -10,12 +10,12 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        // Edge cases: empty list or single node or zero rotation
+        // Edge cases: empty list, single node, or no rotation needed
         if (head == null || head.next == null || k == 0) {
             return head;
         }
 
-        // Step 1: Count the length of the list and get the last node
+        // Step 1: Determine the length of the list and get the last node
         int length = 1;
         ListNode tail = head;
         while (tail.next != null) {
@@ -23,21 +23,22 @@ class Solution {
             length++;
         }
 
-        // Step 2: Calculate effective rotations needed
-        k = k % length;
-        if (k == 0)
-            return head; // No rotation needed
+        // Step 2: Make the list circular
+        tail.next = head;
 
-        // Step 3: Find the new tail: (length - k - 1)th node
-        ListNode newTail = head;
-        for (int i = 1; i < length - k; i++) {
+        // Step 3: Compute effective rotation steps
+        k = k % length;
+        int stepsToNewTail = length - k;
+
+        // Step 4: Find the new tail node
+        ListNode newTail = tail;
+        while (stepsToNewTail-- > 0) {
             newTail = newTail.next;
         }
 
-        // Step 4: Set the new head and rearrange pointers
+        // Step 5: Break the circle and set the new head
         ListNode newHead = newTail.next;
         newTail.next = null;
-        tail.next = head;
 
         return newHead;
     }
