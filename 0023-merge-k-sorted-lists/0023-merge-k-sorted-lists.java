@@ -10,41 +10,49 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        // Edge case: if list array is null or empty, return null
-        if (lists == null || lists.length == 0)
+        // If the input array is empty, return null as there's nothing to merge
+        if (lists.length == 0) {
             return null;
-
-        // Create a min-heap (PriorityQueue) that compares nodes by their value
-        PriorityQueue<ListNode> minHeap = new PriorityQueue<>(
-                (a, b) -> Integer.compare(a.val, b.val));
-
-        // Add the head of each non-null list to the min-heap
-        for (ListNode node : lists) {
-            if (node != null) {
-                minHeap.offer(node);
-            }
         }
 
-        // Dummy node to start building the result list
+        // If the input array has only one list, return it directly (but your code currently returns null)
+        if (lists.length == 1) {
+            return lists[0]; // FIXED: should return lists[0], not null
+        }
+
+        // Merge the first two lists initially
+        ListNode merged = mergeTwoLists(lists[0], lists[1]);
+
+        // Iteratively merge the result with the remaining lists
+        for (int i = 2; i < lists.length; i++) {
+            merged = mergeTwoLists(merged, lists[i]);
+        }
+
+        // Return the final merged sorted list
+        return merged;
+    }
+
+    // Merge Two Sorted Lists
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        // Create a dummy node to simplify edge cases
         ListNode dummy = new ListNode(0);
         ListNode current = dummy;
 
-        // Continue extracting the smallest node until the heap is empty
-        while (!minHeap.isEmpty()) {
-            // Get the smallest node from the heap
-            ListNode smallest = minHeap.poll();
-
-            // Append it to the result list
-            current.next = smallest;
-            current = current.next;
-
-            // If there’s a next node in the same list, push it into the heap
-            if (smallest.next != null) {
-                minHeap.offer(smallest.next);
+        // Traverse both lists until one runs out
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                current.next = list1; // Append list1 node
+                list1 = list1.next; // Move list1 ahead
+            } else {
+                current.next = list2; // Append list2 node
+                list2 = list2.next; // Move list2 ahead
             }
+            current = current.next; // Move current pointer
         }
 
-        // Return the merged list starting from the next of dummy
-        return dummy.next;
+        // Attach the remaining nodes (one of these will be null)
+        current.next = (list1 != null) ? list1 : list2;
+
+        return dummy.next; // The real head is after the dummy
     }
 }
