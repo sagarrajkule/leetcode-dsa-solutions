@@ -119,12 +119,14 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
@@ -198,6 +200,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
