@@ -121,6 +121,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0371-sum-of-two-integers) |
@@ -147,6 +149,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
@@ -202,6 +205,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0020-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
