@@ -95,6 +95,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -110,6 +111,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0371-sum-of-two-integers) |
@@ -238,6 +240,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,4 +253,5 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
