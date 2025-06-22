@@ -205,6 +205,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0020-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -229,4 +230,16 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
