@@ -14,20 +14,39 @@
  * }
  */
 class Solution {
-    // List to store nodes visited during inorder traversal
-    List<Integer> ans = new ArrayList<>();
-
     public int countNodes(TreeNode root) {
-        inorder(root); // Perform inorder traversal
-        return ans.size(); // Number of nodes is size of the list
+        if (root == null)
+            return 0;
+
+        int leftHeight = getLeftHeight(root);
+        int rightHeight = getRightHeight(root);
+
+        // If it's a perfect binary tree
+        if (leftHeight == rightHeight) {
+            return (1 << leftHeight) - 1; // 2^h - 1
+        }
+
+        // Otherwise, recursively count nodes
+        return 1 + countNodes(root.left) + countNodes(root.right);
     }
 
-    // Recursive inorder traversal: left → root → right
-    private void inorder(TreeNode root) {
-        if (root == null) return;
+    // Get height by going left
+    private int getLeftHeight(TreeNode node) {
+        int height = 0;
+        while (node != null) {
+            height++;
+            node = node.left;
+        }
+        return height;
+    }
 
-        inorder(root.left);      // Visit left subtree
-        ans.add(root.val);       // Visit current node
-        inorder(root.right);     // Visit right subtree
+    // Get height by going right
+    private int getRightHeight(TreeNode node) {
+        int height = 0;
+        while (node != null) {
+            height++;
+            node = node.right;
+        }
+        return height;
     }
 }
