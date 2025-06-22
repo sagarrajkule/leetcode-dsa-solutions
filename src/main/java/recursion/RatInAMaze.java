@@ -47,42 +47,69 @@
  * by temporarily setting them to 0 and restoring after recursive calls.
  */
 
-class Solution {
+package recursion;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class RatInAMaze {
     // Function to find all possible paths
     public ArrayList<String> ratInMaze(int[][] maze) {
         ArrayList<String> ans = new ArrayList<>();
         int n = maze.length;
 
-        // If the start or end cell is blocked
         if (maze[0][0] == 0 || maze[n - 1][n - 1] == 0) return ans;
 
-        Helper(ans, maze, 0, 0, n, "");
-        Collections.sort(ans); // Optional: sort lexicographically
+        boolean[][] visited = new boolean[n][n];
+        backtrack(maze, 0, 0, "", visited, ans);
+        Collections.sort(ans);
         return ans;
     }
 
-    void Helper(ArrayList<String> ans, int[][] maze, int i, int j, int n, String s) {
-        // Base case: reached destination
-        if (i == n - 1 && j == n - 1) {
-            ans.add(s);
+    // Helper for DFS traversal
+    private void backtrack(int[][] maze, int row, int col, String path, boolean[][] visited, ArrayList<String> result) {
+        int n = maze.length;
+
+        if (row == n - 1 && col == n - 1) {
+            result.add(path);
             return;
         }
 
-        // Boundary checks
-        if (i < 0 || j < 0 || i >= n || j >= n || maze[i][j] == 0) {
-            return;
+        if (row < 0 || col < 0 || row >= n || col >= n || visited[row][col] || maze[row][col] == 0) return;
+
+        visited[row][col] = true;
+
+        backtrack(maze, row + 1, col, path + 'D', visited, result);
+        backtrack(maze, row, col - 1, path + 'L', visited, result);
+        backtrack(maze, row, col + 1, path + 'R', visited, result);
+        backtrack(maze, row - 1, col, path + 'U', visited, result);
+
+        visited[row][col] = false;
+    }
+
+    /**
+     * Main method to test via command line.
+     * This main method is for testing/debugging locally from the command line.
+     * Usage: java recursion.RatInAMaze
+     */
+    public static void main(String[] args) {
+        int[][] maze = {
+            {1, 0, 0, 0},
+            {1, 1, 0, 1},
+            {0, 1, 0, 0},
+            {1, 1, 1, 1}
+        };
+
+        RatInAMaze obj = new RatInAMaze();
+        ArrayList<String> paths = obj.ratInMaze(maze);
+
+        if (paths.isEmpty()) {
+            System.out.println("No path exists.");
+        } else {
+            System.out.println("Possible paths:");
+            for (String path : paths) {
+                System.out.println(path);
+            }
         }
-
-        // Mark the current cell as visited
-        maze[i][j] = 0;
-
-        // Move in all directions
-        Helper(ans, maze, i + 1, j, n, s + 'D'); // Down
-        Helper(ans, maze, i - 1, j, n, s + 'U'); // Up
-        Helper(ans, maze, i, j + 1, n, s + 'R'); // Right
-        Helper(ans, maze, i, j - 1, n, s + 'L'); // Left
-
-        // Backtrack
-        maze[i][j] = 1;
     }
 }
