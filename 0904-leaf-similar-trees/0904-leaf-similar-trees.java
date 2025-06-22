@@ -19,24 +19,25 @@ class Solution {
         List<Integer> leaf2 = new ArrayList<>();
 
         // Collect leaf nodes for both trees
-        dfs(root1, leaf1);
-        dfs(root2, leaf2);
+        collectLeaves(root1, leaf1);
+        collectLeaves(root2, leaf2);
 
         // Compare leaf sequences
         return leaf1.equals(leaf2);
     }
 
-    // DFS (Depth-First Search): Preorder traversal helper to collect leaf nodes
-    private void dfs(TreeNode root, List<Integer> leaves) {
+    // Preorder traversal helper to collect leaf nodes
+    private void collectLeaves(TreeNode root, List<Integer> leaves) {
         if (root == null)
             return;
 
-        // If leaf node, add value
+        // If it's a leaf node, add to the list
         if (root.left == null && root.right == null) {
             leaves.add(root.val);
         }
 
-        dfs(root.left, leaves);
-        dfs(root.right, leaves);
+        // Continue traversal
+        collectLeaves(root.left, leaves);
+        collectLeaves(root.right, leaves);
     }
 }
