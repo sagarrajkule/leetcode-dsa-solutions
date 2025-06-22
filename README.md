@@ -242,6 +242,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +259,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
