@@ -49,8 +49,7 @@
 
 package recursion;
 
-import java.util.ArrayList;
-import java.util.Collections;
+import java.util.*;
 
 public class RatInAMaze {
     // Function to find all possible paths
@@ -66,7 +65,7 @@ public class RatInAMaze {
         return ans;
     }
 
-    // Helper for DFS traversal
+    // DFS helper
     private void backtrack(int[][] maze, int row, int col, String path, boolean[][] visited, ArrayList<String> result) {
         int n = maze.length;
 
@@ -88,17 +87,31 @@ public class RatInAMaze {
     }
 
     /**
-     * Main method to test via command line.
-     * This main method is for testing/debugging locally from the command line.
-     * Usage: java recursion.RatInAMaze
+     * Main method to test via console input.
+     * Usage: run and enter size followed by matrix rows.
+     * Example:
+     * Enter the size of the maze (n x n): 4
+     * Enter the maze row by row (0 for block, 1 for open path):
+     * 1 0 0 0
+     * 1 1 0 1
+     * 1 1 0 0
+     * 0 1 1 1
      */
     public static void main(String[] args) {
-        int[][] maze = {
-            {1, 0, 0, 0},
-            {1, 1, 0, 1},
-            {0, 1, 0, 0},
-            {1, 1, 1, 1}
-        };
+        Scanner scanner = new Scanner(System.in);
+
+        // Read matrix size
+        System.out.print("Enter the size of the maze (n x n): ");
+        int n = scanner.nextInt();
+        int[][] maze = new int[n][n];
+
+        // Read the maze matrix
+        System.out.println("Enter the maze row by row (0 for block, 1 for open path):");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                maze[i][j] = scanner.nextInt();
+            }
+        }
 
         RatInAMaze obj = new RatInAMaze();
         ArrayList<String> paths = obj.ratInMaze(maze);
@@ -111,5 +124,7 @@ public class RatInAMaze {
                 System.out.println(path);
             }
         }
+
+        scanner.close();
     }
 }
