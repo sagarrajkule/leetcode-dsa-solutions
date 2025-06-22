@@ -21,19 +21,19 @@ class Solution {
         return sum; // Return the accumulated result
     }
 
-    // Preorder helper function
-    private void sum(TreeNode node) {
-        // Base case: if node is null, return
-        if (node == null)
+    // Preorder helper function. Preorder traversal visits nodes in this order: root → left → right
+    private void sum(TreeNode root) {
+        // Base case: if root is null, return
+        if (root == null)
             return;
 
         // Check if left child exists and is a leaf node
-        if (node.left != null && node.left.left == null && node.left.right == null) {
-            sum += node.left.val;
+        if (root.left != null && root.left.left == null && root.left.right == null) {
+            sum += root.left.val;
         }
 
         // Traverse left and right subtree
-        sum(node.left);
-        sum(node.right);
+        sum(root.left);
+        sum(root.right);
     }
 }
