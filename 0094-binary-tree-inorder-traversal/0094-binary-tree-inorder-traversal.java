@@ -26,7 +26,7 @@ class Solution {
         return ans; // Return the result list
     }
 
-    // Helper method for recursive inorder traversal
+    // Helper method for recursive inorder traversal. Inorder traversal visits nodes in this order: left → root → right.
     private void inorder(TreeNode root) {
         // Base case: if node is null, just return
         if (root == null) {
