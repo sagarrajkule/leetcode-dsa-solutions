@@ -15,6 +15,7 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
+        // Base case: if node is null, just return
         if (root == null)
             return 0;
 
