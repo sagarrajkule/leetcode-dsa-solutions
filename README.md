@@ -104,6 +104,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -241,6 +243,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -249,6 +252,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0094-binary-tree-inorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
@@ -258,6 +262,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0144-binary-tree-preorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
