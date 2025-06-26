@@ -35,7 +35,7 @@ class Solution {
         // If it's a leaf, add the path to the result list
         if (node.left == null && node.right == null) {
             paths.add(path);
-            // return; // ✅ Prevents further "->" appending
+            return; // ✅ Prevents further "->" appending
         }
 
         // Continue DFS traversal with arrow separator
