@@ -14,31 +14,31 @@
  * }
  */
 class Solution {
-    private List<List<Integer>> resultPaths = new ArrayList<>();
+    private List<List<Integer>> ans = new ArrayList<>();
 
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        dfs(root, 0, targetSum, new ArrayList<>());
-        return resultPaths;
+        helper(root, 0, targetSum, new ArrayList<>());
+        return ans;
     }
 
-    // Preorder DFS + backtracking
-    private void dfs(TreeNode node, int currentSum, int targetSum, List<Integer> currentPath) {
+    // Preorder traversal + backtracking
+    private void helper(TreeNode node, int currentSum, int targetSum, List<Integer> currentPath) {
         if (node == null) return;
 
-        // Add current node to the path and update sum
+        // Add current node value to path and sum
         currentPath.add(node.val);
         currentSum += node.val;
 
-        // If it's a leaf and the path sum matches target, store the path
+        // If it's a leaf and the sum matches, add the path to result
         if (node.left == null && node.right == null && currentSum == targetSum) {
-            resultPaths.add(new ArrayList<>(currentPath));
+            ans.add(new ArrayList<>(currentPath));
         }
 
-        // Recurse into left and right children
-        dfs(node.left, currentSum, targetSum, currentPath);
-        dfs(node.right, currentSum, targetSum, currentPath);
+        // Recurse on left and right child
+        helper(node.left, currentSum, targetSum, currentPath);
+        helper(node.right, currentSum, targetSum, currentPath);
 
-        // Backtrack: remove current node before returning
+        // Backtrack
         currentPath.remove(currentPath.size() - 1);
     }
 }
