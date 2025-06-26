@@ -14,22 +14,29 @@
  * }
  */
 class Solution {
+    private boolean ans = false;
+
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return dfs(root, 0, targetSum); 
+        dfs(root, 0, targetSum);
+        return ans;
     }
 
     // Preorder DFS: root → left → right
-    private boolean dfs(TreeNode node, int currentSum, int targetSum) {
-        if (node == null) return false;
+    private void dfs(TreeNode node, int currentSum, int targetSum) {
+        if (node == null)
+            return;
 
         currentSum += node.val;
 
-        // If it's a leaf, check if the path sum equals targetSum
+        // If leaf node, check if path sum equals target
         if (node.left == null && node.right == null) {
-            return currentSum == targetSum;
+            if (currentSum == targetSum) {
+                ans = true;
+            }
+            return;
         }
 
-        // Check left and right subtrees
-        return dfs(node.left, currentSum, targetSum) || dfs(node.right, currentSum, targetSum);
+        dfs(node.left, currentSum, targetSum);
+        dfs(node.right, currentSum, targetSum);
     }
 }
