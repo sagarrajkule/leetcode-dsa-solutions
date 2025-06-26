@@ -30,7 +30,7 @@ class Solution {
         if (node == null) return;
 
         // Append current node's value to path
-        path += node.val;
+        path += Integer.toString(node.val);
 
         // If it's a leaf, add the path to the result list
         if (node.left == null && node.right == null) {
