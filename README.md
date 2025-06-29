@@ -57,6 +57,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -76,12 +77,14 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -151,6 +154,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0371-sum-of-two-integers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +176,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,4 +293,9 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
