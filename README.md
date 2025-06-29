@@ -48,6 +48,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
@@ -74,11 +75,13 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -168,6 +171,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0023-merge-k-sorted-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,4 +284,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0112-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
