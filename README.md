@@ -44,6 +44,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -302,5 +303,6 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
