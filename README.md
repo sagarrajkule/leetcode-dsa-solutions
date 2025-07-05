@@ -42,6 +42,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0035-search-insert-position](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0134-gas-station) |
@@ -142,6 +143,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Math
@@ -303,6 +305,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
