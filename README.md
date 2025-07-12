@@ -146,6 +146,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0042-trapping-rain-water](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Math
@@ -154,6 +155,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0002-add-two-numbers](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0326-power-of-three) |
@@ -174,6 +176,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
