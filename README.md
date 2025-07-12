@@ -58,6 +58,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
@@ -149,6 +150,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1236-n-th-tribonacci-number) |
