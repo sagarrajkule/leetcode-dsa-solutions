@@ -51,6 +51,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0136-single-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
@@ -147,6 +148,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0045-jump-game-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1236-n-th-tribonacci-number) |
