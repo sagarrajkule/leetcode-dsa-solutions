@@ -44,6 +44,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0045-jump-game-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0045-jump-game-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
@@ -215,6 +217,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 ## Sliding Window
