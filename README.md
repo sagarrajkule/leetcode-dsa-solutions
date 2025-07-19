@@ -140,6 +140,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0020-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
@@ -159,6 +160,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0063-unique-paths-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0583-delete-operation-for-two-strings) |
