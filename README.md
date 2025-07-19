@@ -144,6 +144,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -158,6 +159,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0064-minimum-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
