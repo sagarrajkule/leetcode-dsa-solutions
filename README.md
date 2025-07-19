@@ -144,6 +144,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [1250-longest-common-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +163,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0875-longest-mountain-in-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
