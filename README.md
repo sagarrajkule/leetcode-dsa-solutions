@@ -81,6 +81,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0142-linked-list-cycle-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
@@ -89,6 +90,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
@@ -146,6 +148,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0072-edit-distance](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0516-longest-palindromic-subsequence) |
