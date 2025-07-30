@@ -56,6 +56,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0198-house-robber](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0141-linked-list-cycle](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
@@ -86,6 +88,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
