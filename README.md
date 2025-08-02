@@ -60,6 +60,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0260-single-number-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0485-max-consecutive-ones) |
+| [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -236,6 +237,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0048-rotate-image](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0064-minimum-path-sum) |
+| [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 ## Sliding Window
 |  |
@@ -312,6 +314,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0145-binary-tree-postorder-traversal](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
@@ -331,6 +334,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | ------- |
 | [0112-path-sum](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 ## Quickselect
 |  |
 | ------- |
@@ -359,4 +363,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
