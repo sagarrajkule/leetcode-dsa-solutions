@@ -318,6 +318,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
@@ -339,6 +340,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0404-sum-of-left-leaves](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0871-keys-and-rooms) |
 ## Quickselect
 |  |
 | ------- |
@@ -371,4 +373,8 @@ This repository is primarily focused on solving problems from **LeetCode** using
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
