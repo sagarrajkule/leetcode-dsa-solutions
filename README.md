@@ -71,6 +71,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2479-meeting-rooms-iii](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -245,6 +246,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,6 +349,7 @@ This repository is primarily focused on solving problems from **LeetCode** using
 | [0695-max-area-of-island](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/sagarrajkule/leetcode-dsa-solutions/tree/master/1036-rotting-oranges) |
 ## Quickselect
 |  |
 | ------- |
